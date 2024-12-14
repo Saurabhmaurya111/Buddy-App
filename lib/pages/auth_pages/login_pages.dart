@@ -10,7 +10,7 @@ import 'package:travel_buddy_app/components/square_tile.dart';
 
 class LogInPage extends StatefulWidget {
   final Function()? onTap;
-  LogInPage({super.key, required this.onTap});
+  LogInPage({super.key,  this.onTap});
 
   @override
   State<LogInPage> createState() => _LogInPageState();
