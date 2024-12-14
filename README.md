@@ -1,16 +1,20 @@
-# travel_buddy_app
+# Travel Buddy App
 
-A new Flutter project.
+## Overview
+The Travel Buddy App connects travelers with small delivery needs, showcasing features like Login/Signup, Dashboard, and User Profile.
 
-## Getting Started
+## Features
+- **Login/Signup**: Secure authentication with email/password.
+- **Dashboard**: View and select delivery requests.
+- **Request Details**: Detailed info for selected delivery tasks.
+- **User Profile**: Track deliveries and rewards.
+- **Bonus Features**:
+  - Google Login.
+  - Animations and transitions.
+  - Graceful error handling.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation Instructions
+1. Clone the repository:
+   ```bash
+   git clone <repository_url>
+   cd travel_buddy_app
