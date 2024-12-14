@@ -16,5 +16,5 @@ The Travel Buddy App connects travelers with small delivery needs, showcasing fe
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Saurabhmaurya111/Buddy-App.git>
+   git clone https://github.com/Saurabhmaurya111/Buddy-App.git
    cd travel_buddy_app
